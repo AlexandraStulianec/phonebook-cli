@@ -1,0 +1,11 @@
+Alex,Popa,Calea Martirilor nr.12,alexandru.popa@gmail.com,male,0769584665
+Alin,Danut,Bulevardul Liviu Rebreanu,alin.darius@gmail.com,male,0755493211
+Iris,Marian,Strada 1 Decembrie 1918,iris.marian@gmail.com,female,0769555321
+Irina,Maria,Strada Aida,alinuta_maria@gmail.com,female,0766585004
+Alexia,Dumitrescu,Strada Alexandru Lapusneanu nr.1,dumitrescu_a@yahoo.com,female,0769443221
+Adelina,Popescu,Strada 9 mai nr.3,adel_popi@yahoo.com,female,0765443879
+Gabriela,Barbu,Strada Alexandru Lapusneanu nr.1,barbu0gabi@yahoo.com,female,0770554221
+Mara,Bogza,Str. Alunis nr.2,bogza_mara03@gmail.com,female,0755544398
+Marin,Bogza,Str. Alunis nr.2,bogza_marin030@gmail.com,male,0755339087
+Andreea,Bogza,Str. Alunis nr.2,and_bog@gmail.com,female,0766593002
+Alexia,Alinuta,Str. Calea Sagului nr.120,carina_ali@yahoo.com,female,0765522111
